@@ -3,31 +3,31 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Git\\DOTS_Seminar_Openworld\\DOTS_Openworld\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BAD26A19-7551-AB16-3213-5CCF975DC1C1}|Assembly-CSharp.csproj|c:\\users\\user\\git\\dots_seminar_openworld\\dots_openworld\\assets\\tutorials\\tornado\\buildingsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BAD26A19-7551-AB16-3213-5CCF975DC1C1}|Assembly-CSharp.csproj|solutionrelative:assets\\tutorials\\tornado\\buildingsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BAD26A19-7551-AB16-3213-5CCF975DC1C1}|Assembly-CSharp.csproj|C:\\Users\\user\\Git\\DOTS_Seminar_Openworld\\DOTS_Openworld\\assets\\streaming\\scenemanagement\\5. sectionmetadata\\sectionsteaming\\circleauthoring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAD26A19-7551-AB16-3213-5CCF975DC1C1}|Assembly-CSharp.csproj|solutionrelative:assets\\streaming\\scenemanagement\\5. sectionmetadata\\sectionsteaming\\circleauthoring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BAD26A19-7551-AB16-3213-5CCF975DC1C1}|Assembly-CSharp.csproj|c:\\users\\user\\git\\dots_seminar_openworld\\dots_openworld\\assets\\tutorials\\tornado\\atomiccounter\\atomiccounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BAD26A19-7551-AB16-3213-5CCF975DC1C1}|Assembly-CSharp.csproj|solutionrelative:assets\\tutorials\\tornado\\atomiccounter\\atomiccounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BAD26A19-7551-AB16-3213-5CCF975DC1C1}|Assembly-CSharp.csproj|C:\\Users\\user\\Git\\DOTS_Seminar_Openworld\\DOTS_Openworld\\assets\\01_script\\editorscripting\\autosectionindexer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAD26A19-7551-AB16-3213-5CCF975DC1C1}|Assembly-CSharp.csproj|solutionrelative:assets\\01_script\\editorscripting\\autosectionindexer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BAD26A19-7551-AB16-3213-5CCF975DC1C1}|Assembly-CSharp.csproj|c:\\users\\user\\git\\dots_seminar_openworld\\dots_openworld\\assets\\streaming\\scenemanagement\\5. sectionmetadata\\inputsystem\\inputhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BAD26A19-7551-AB16-3213-5CCF975DC1C1}|Assembly-CSharp.csproj|C:\\Users\\user\\Git\\DOTS_Seminar_Openworld\\DOTS_Openworld\\assets\\streaming\\scenemanagement\\5. sectionmetadata\\sectionsteaming\\circlebakingsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAD26A19-7551-AB16-3213-5CCF975DC1C1}|Assembly-CSharp.csproj|solutionrelative:assets\\streaming\\scenemanagement\\5. sectionmetadata\\sectionsteaming\\circlebakingsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAD26A19-7551-AB16-3213-5CCF975DC1C1}|Assembly-CSharp.csproj|C:\\Users\\user\\Git\\DOTS_Seminar_Openworld\\DOTS_Openworld\\assets\\streaming\\scenemanagement\\5. sectionmetadata\\sectionsteaming\\sectionsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAD26A19-7551-AB16-3213-5CCF975DC1C1}|Assembly-CSharp.csproj|solutionrelative:assets\\streaming\\scenemanagement\\5. sectionmetadata\\sectionsteaming\\sectionsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Git\\DOTS_Seminar_Openworld\\DOTS_Openworld\\Assets\\Tutorials\\Tornado\\BuildingSystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Tutorials\\Tornado\\BuildingSystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAD26A19-7551-AB16-3213-5CCF975DC1C1}|Assembly-CSharp.csproj|C:\\Users\\user\\Git\\DOTS_Seminar_Openworld\\DOTS_Openworld\\assets\\streaming\\scenemanagement\\5. sectionmetadata\\inputsystem\\inputhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BAD26A19-7551-AB16-3213-5CCF975DC1C1}|Assembly-CSharp.csproj|solutionrelative:assets\\streaming\\scenemanagement\\5. sectionmetadata\\inputsystem\\inputhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BAD26A19-7551-AB16-3213-5CCF975DC1C1}|Assembly-CSharp.csproj|c:\\users\\user\\git\\dots_seminar_openworld\\dots_openworld\\assets\\boids\\scripts\\mergesharedkeyindicesjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BAD26A19-7551-AB16-3213-5CCF975DC1C1}|Assembly-CSharp.csproj|solutionrelative:assets\\boids\\scripts\\mergesharedkeyindicesjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BAD26A19-7551-AB16-3213-5CCF975DC1C1}|Assembly-CSharp.csproj|c:\\users\\user\\git\\dots_seminar_openworld\\dots_openworld\\assets\\hellocube\\15. closesttarget\\kdtree\\nativepriorityheap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BAD26A19-7551-AB16-3213-5CCF975DC1C1}|Assembly-CSharp.csproj|solutionrelative:assets\\hellocube\\15. closesttarget\\kdtree\\nativepriorityheap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BAD26A19-7551-AB16-3213-5CCF975DC1C1}|Assembly-CSharp.csproj|c:\\users\\user\\git\\dots_seminar_openworld\\dots_openworld\\assets\\hellocube\\15. closesttarget\\kdtree\\kdtree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BAD26A19-7551-AB16-3213-5CCF975DC1C1}|Assembly-CSharp.csproj|solutionrelative:assets\\hellocube\\15. closesttarget\\kdtree\\kdtree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BAD26A19-7551-AB16-3213-5CCF975DC1C1}|Assembly-CSharp.csproj|c:\\users\\user\\git\\dots_seminar_openworld\\dots_openworld\\assets\\01_script\\playercontroller\\playertagauthoring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BAD26A19-7551-AB16-3213-5CCF975DC1C1}|Assembly-CSharp.csproj|C:\\Users\\user\\Git\\DOTS_Seminar_Openworld\\DOTS_Openworld\\assets\\01_script\\playercontroller\\playertagauthoring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BAD26A19-7551-AB16-3213-5CCF975DC1C1}|Assembly-CSharp.csproj|solutionrelative:assets\\01_script\\playercontroller\\playertagauthoring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -81,6 +81,22 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Git\\DOTS_Seminar_Openworld\\DOTS_Openworld\\Assets\\01_Script\\PlayerController\\InputBridge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\01_Script\\PlayerController\\InputBridge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Git\\DOTS_Seminar_Openworld\\DOTS_Openworld\\Assets\\Tutorials\\Tornado\\AtomicCounter\\AtomicCounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Tutorials\\Tornado\\AtomicCounter\\AtomicCounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Git\\DOTS_Seminar_Openworld\\DOTS_Openworld\\Assets\\Boids\\Scripts\\MergeSharedKeyIndicesJob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Boids\\Scripts\\MergeSharedKeyIndicesJob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Git\\DOTS_Seminar_Openworld\\DOTS_Openworld\\Assets\\HelloCube\\15. ClosestTarget\\KDTree\\NativePriorityHeap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\HelloCube\\15. ClosestTarget\\KDTree\\NativePriorityHeap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Git\\DOTS_Seminar_Openworld\\DOTS_Openworld\\Assets\\HelloCube\\15. ClosestTarget\\KDTree\\KDTree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\HelloCube\\15. ClosestTarget\\KDTree\\KDTree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -95,19 +111,66 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "CircleAuthoring.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Git\\DOTS_Seminar_Openworld\\DOTS_Openworld\\Assets\\Streaming\\SceneManagement\\5. SectionMetadata\\SectionSteaming\\CircleAuthoring.cs",
+              "RelativeDocumentMoniker": "Assets\\Streaming\\SceneManagement\\5. SectionMetadata\\SectionSteaming\\CircleAuthoring.cs",
+              "ToolTip": "C:\\Users\\user\\Git\\DOTS_Seminar_Openworld\\DOTS_Openworld\\Assets\\Streaming\\SceneManagement\\5. SectionMetadata\\SectionSteaming\\CircleAuthoring.cs",
+              "RelativeToolTip": "Assets\\Streaming\\SceneManagement\\5. SectionMetadata\\SectionSteaming\\CircleAuthoring.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T22:29:05.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CircleBakingSystem.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Git\\DOTS_Seminar_Openworld\\DOTS_Openworld\\Assets\\Streaming\\SceneManagement\\5. SectionMetadata\\SectionSteaming\\CircleBakingSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Streaming\\SceneManagement\\5. SectionMetadata\\SectionSteaming\\CircleBakingSystem.cs",
+              "ToolTip": "C:\\Users\\user\\Git\\DOTS_Seminar_Openworld\\DOTS_Openworld\\Assets\\Streaming\\SceneManagement\\5. SectionMetadata\\SectionSteaming\\CircleBakingSystem.cs",
+              "RelativeToolTip": "Assets\\Streaming\\SceneManagement\\5. SectionMetadata\\SectionSteaming\\CircleBakingSystem.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T22:29:01.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SectionSystem.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Git\\DOTS_Seminar_Openworld\\DOTS_Openworld\\Assets\\Streaming\\SceneManagement\\5. SectionMetadata\\SectionSteaming\\SectionSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Streaming\\SceneManagement\\5. SectionMetadata\\SectionSteaming\\SectionSystem.cs",
+              "ToolTip": "C:\\Users\\user\\Git\\DOTS_Seminar_Openworld\\DOTS_Openworld\\Assets\\Streaming\\SceneManagement\\5. SectionMetadata\\SectionSteaming\\SectionSystem.cs",
+              "RelativeToolTip": "Assets\\Streaming\\SceneManagement\\5. SectionMetadata\\SectionSteaming\\SectionSystem.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T22:28:56.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AutoSectionIndexer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Git\\DOTS_Seminar_Openworld\\DOTS_Openworld\\Assets\\01_Script\\EditorScripting\\AutoSectionIndexer.cs",
+              "RelativeDocumentMoniker": "Assets\\01_Script\\EditorScripting\\AutoSectionIndexer.cs",
+              "ToolTip": "C:\\Users\\user\\Git\\DOTS_Seminar_Openworld\\DOTS_Openworld\\Assets\\01_Script\\EditorScripting\\AutoSectionIndexer.cs",
+              "RelativeToolTip": "Assets\\01_Script\\EditorScripting\\AutoSectionIndexer.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAcwDgAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T22:27:53.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "BuildingSystem.cs",
               "DocumentMoniker": "C:\\Users\\user\\Git\\DOTS_Seminar_Openworld\\DOTS_Openworld\\Assets\\Tutorials\\Tornado\\BuildingSystem.cs",
               "RelativeDocumentMoniker": "Assets\\Tutorials\\Tornado\\BuildingSystem.cs",
               "ToolTip": "C:\\Users\\user\\Git\\DOTS_Seminar_Openworld\\DOTS_Openworld\\Assets\\Tutorials\\Tornado\\BuildingSystem.cs",
               "RelativeToolTip": "Assets\\Tutorials\\Tornado\\BuildingSystem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-23T22:23:45.734Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-23T22:23:45.734Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 20,
               "Title": "AtomicCounter.cs",
               "DocumentMoniker": "C:\\Users\\user\\Git\\DOTS_Seminar_Openworld\\DOTS_Openworld\\Assets\\Tutorials\\Tornado\\AtomicCounter\\AtomicCounter.cs",
               "RelativeDocumentMoniker": "Assets\\Tutorials\\Tornado\\AtomicCounter\\AtomicCounter.cs",
@@ -115,12 +178,11 @@
               "RelativeToolTip": "Assets\\Tutorials\\Tornado\\AtomicCounter\\AtomicCounter.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-23T22:23:33.408Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-23T22:23:33.408Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "InputHandler.cs",
               "DocumentMoniker": "C:\\Users\\user\\Git\\DOTS_Seminar_Openworld\\DOTS_Openworld\\Assets\\Streaming\\SceneManagement\\5. SectionMetadata\\InputSystem\\InputHandler.cs",
               "RelativeDocumentMoniker": "Assets\\Streaming\\SceneManagement\\5. SectionMetadata\\InputSystem\\InputHandler.cs",
@@ -128,12 +190,11 @@
               "RelativeToolTip": "Assets\\Streaming\\SceneManagement\\5. SectionMetadata\\InputSystem\\InputHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-23T22:23:03.637Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-23T22:23:03.637Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 21,
               "Title": "MergeSharedKeyIndicesJob.cs",
               "DocumentMoniker": "C:\\Users\\user\\Git\\DOTS_Seminar_Openworld\\DOTS_Openworld\\Assets\\Boids\\Scripts\\MergeSharedKeyIndicesJob.cs",
               "RelativeDocumentMoniker": "Assets\\Boids\\Scripts\\MergeSharedKeyIndicesJob.cs",
@@ -141,12 +202,11 @@
               "RelativeToolTip": "Assets\\Boids\\Scripts\\MergeSharedKeyIndicesJob.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAABwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-23T22:22:24.668Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-23T22:22:24.668Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 22,
               "Title": "NativePriorityHeap.cs",
               "DocumentMoniker": "C:\\Users\\user\\Git\\DOTS_Seminar_Openworld\\DOTS_Openworld\\Assets\\HelloCube\\15. ClosestTarget\\KDTree\\NativePriorityHeap.cs",
               "RelativeDocumentMoniker": "Assets\\HelloCube\\15. ClosestTarget\\KDTree\\NativePriorityHeap.cs",
@@ -154,21 +214,19 @@
               "RelativeToolTip": "Assets\\HelloCube\\15. ClosestTarget\\KDTree\\NativePriorityHeap.cs",
               "ViewState": "AgIAADYAAAAAAAAAAAAYwBMAAABcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-23T22:22:14.195Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-23T22:22:14.195Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 23,
               "Title": "KDTree.cs",
               "DocumentMoniker": "C:\\Users\\user\\Git\\DOTS_Seminar_Openworld\\DOTS_Openworld\\Assets\\HelloCube\\15. ClosestTarget\\KDTree\\KDTree.cs",
               "RelativeDocumentMoniker": "Assets\\HelloCube\\15. ClosestTarget\\KDTree\\KDTree.cs",
-              "ToolTip": "C:\\Users\\user\\Git\\DOTS_Seminar_Openworld\\DOTS_Openworld\\Assets\\HelloCube\\15. ClosestTarget\\KDTree\\KDTree.cs*",
-              "RelativeToolTip": "Assets\\HelloCube\\15. ClosestTarget\\KDTree\\KDTree.cs*",
+              "ToolTip": "C:\\Users\\user\\Git\\DOTS_Seminar_Openworld\\DOTS_Openworld\\Assets\\HelloCube\\15. ClosestTarget\\KDTree\\KDTree.cs",
+              "RelativeToolTip": "Assets\\HelloCube\\15. ClosestTarget\\KDTree\\KDTree.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAArwBQAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-23T22:21:28.365Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-23T22:21:28.365Z"
             },
             {
               "$type": "Document",
@@ -180,8 +238,7 @@
               "RelativeToolTip": "Assets\\01_Script\\PlayerController\\PlayerTagAuthoring.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAIwA4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-23T22:11:25.553Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-23T22:11:25.553Z"
             },
             {
               "$type": "Document",
