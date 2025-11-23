@@ -1,0 +1,344 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Git\\DOTS_Seminar_Openworld\\DOTS_Openworld\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BAD26A19-7551-AB16-3213-5CCF975DC1C1}|Assembly-CSharp.csproj|c:\\users\\user\\git\\dots_seminar_openworld\\dots_openworld\\assets\\tutorials\\tornado\\buildingsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAD26A19-7551-AB16-3213-5CCF975DC1C1}|Assembly-CSharp.csproj|solutionrelative:assets\\tutorials\\tornado\\buildingsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAD26A19-7551-AB16-3213-5CCF975DC1C1}|Assembly-CSharp.csproj|c:\\users\\user\\git\\dots_seminar_openworld\\dots_openworld\\assets\\tutorials\\tornado\\atomiccounter\\atomiccounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAD26A19-7551-AB16-3213-5CCF975DC1C1}|Assembly-CSharp.csproj|solutionrelative:assets\\tutorials\\tornado\\atomiccounter\\atomiccounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAD26A19-7551-AB16-3213-5CCF975DC1C1}|Assembly-CSharp.csproj|c:\\users\\user\\git\\dots_seminar_openworld\\dots_openworld\\assets\\streaming\\scenemanagement\\5. sectionmetadata\\inputsystem\\inputhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAD26A19-7551-AB16-3213-5CCF975DC1C1}|Assembly-CSharp.csproj|solutionrelative:assets\\streaming\\scenemanagement\\5. sectionmetadata\\inputsystem\\inputhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAD26A19-7551-AB16-3213-5CCF975DC1C1}|Assembly-CSharp.csproj|c:\\users\\user\\git\\dots_seminar_openworld\\dots_openworld\\assets\\boids\\scripts\\mergesharedkeyindicesjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAD26A19-7551-AB16-3213-5CCF975DC1C1}|Assembly-CSharp.csproj|solutionrelative:assets\\boids\\scripts\\mergesharedkeyindicesjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAD26A19-7551-AB16-3213-5CCF975DC1C1}|Assembly-CSharp.csproj|c:\\users\\user\\git\\dots_seminar_openworld\\dots_openworld\\assets\\hellocube\\15. closesttarget\\kdtree\\nativepriorityheap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAD26A19-7551-AB16-3213-5CCF975DC1C1}|Assembly-CSharp.csproj|solutionrelative:assets\\hellocube\\15. closesttarget\\kdtree\\nativepriorityheap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAD26A19-7551-AB16-3213-5CCF975DC1C1}|Assembly-CSharp.csproj|c:\\users\\user\\git\\dots_seminar_openworld\\dots_openworld\\assets\\hellocube\\15. closesttarget\\kdtree\\kdtree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAD26A19-7551-AB16-3213-5CCF975DC1C1}|Assembly-CSharp.csproj|solutionrelative:assets\\hellocube\\15. closesttarget\\kdtree\\kdtree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAD26A19-7551-AB16-3213-5CCF975DC1C1}|Assembly-CSharp.csproj|c:\\users\\user\\git\\dots_seminar_openworld\\dots_openworld\\assets\\01_script\\playercontroller\\playertagauthoring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAD26A19-7551-AB16-3213-5CCF975DC1C1}|Assembly-CSharp.csproj|solutionrelative:assets\\01_script\\playercontroller\\playertagauthoring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Git\\DOTS_Seminar_Openworld\\DOTS_Openworld\\Assets\\01_Script\\NormalizeCharacter\\ApplyInverseScaleToRenderChildrenBakingSystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\01_Script\\NormalizeCharacter\\ApplyInverseScaleToRenderChildrenBakingSystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Git\\DOTS_Seminar_Openworld\\DOTS_Openworld\\Assets\\01_Script\\InverseUniformScaleAfterSkinning.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\01_Script\\InverseUniformScaleAfterSkinning.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Git\\DOTS_Seminar_Openworld\\DOTS_Openworld\\Assets\\01_Script\\NormalizeCharacter\\AutoNormalizeScaleAuthoring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\01_Script\\NormalizeCharacter\\AutoNormalizeScaleAuthoring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Git\\DOTS_Seminar_Openworld\\DOTS_Openworld\\Assets\\01_Script\\PlayerControllerAuthoring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\01_Script\\PlayerControllerAuthoring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Git\\DOTS_Seminar_Openworld\\DOTS_Openworld\\Assets\\01_Script\\InputBridge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\01_Script\\InputBridge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Git\\DOTS_Seminar_Openworld\\DOTS_Openworld\\Assets\\01_Script\\InputSingletonAuthoring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\01_Script\\InputSingletonAuthoring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Git\\DOTS_Seminar_Openworld\\DOTS_Openworld\\Assets\\01_Script\\NormalizeCharacter\\NormalizeUniformScale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\01_Script\\NormalizeCharacter\\NormalizeUniformScale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Git\\DOTS_Seminar_Openworld\\DOTS_Openworld\\Assets\\01_Script\\NormalizeCharacter\\CaptureInverseScaleAuthoring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\01_Script\\NormalizeCharacter\\CaptureInverseScaleAuthoring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Git\\DOTS_Seminar_Openworld\\DOTS_Openworld\\Assets\\01_Script\\PlayerController\\InputSingletonAuthoring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\01_Script\\PlayerController\\InputSingletonAuthoring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Git\\DOTS_Seminar_Openworld\\DOTS_Openworld\\Assets\\01_Script\\PlayerController\\PlayerControllerAuthoring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\01_Script\\PlayerController\\PlayerControllerAuthoring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Git\\DOTS_Seminar_Openworld\\DOTS_Openworld\\Assets\\01_Script\\PlayerController\\EntityFollower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\01_Script\\PlayerController\\EntityFollower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Git\\DOTS_Seminar_Openworld\\DOTS_Openworld\\Assets\\01_Script\\PlayerController\\PlayerMoveSystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\01_Script\\PlayerController\\PlayerMoveSystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Git\\DOTS_Seminar_Openworld\\DOTS_Openworld\\Assets\\01_Script\\PlayerController\\InputBridge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\01_Script\\PlayerController\\InputBridge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BuildingSystem.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Git\\DOTS_Seminar_Openworld\\DOTS_Openworld\\Assets\\Tutorials\\Tornado\\BuildingSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Tutorials\\Tornado\\BuildingSystem.cs",
+              "ToolTip": "C:\\Users\\user\\Git\\DOTS_Seminar_Openworld\\DOTS_Openworld\\Assets\\Tutorials\\Tornado\\BuildingSystem.cs",
+              "RelativeToolTip": "Assets\\Tutorials\\Tornado\\BuildingSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T22:23:45.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AtomicCounter.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Git\\DOTS_Seminar_Openworld\\DOTS_Openworld\\Assets\\Tutorials\\Tornado\\AtomicCounter\\AtomicCounter.cs",
+              "RelativeDocumentMoniker": "Assets\\Tutorials\\Tornado\\AtomicCounter\\AtomicCounter.cs",
+              "ToolTip": "C:\\Users\\user\\Git\\DOTS_Seminar_Openworld\\DOTS_Openworld\\Assets\\Tutorials\\Tornado\\AtomicCounter\\AtomicCounter.cs",
+              "RelativeToolTip": "Assets\\Tutorials\\Tornado\\AtomicCounter\\AtomicCounter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T22:23:33.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InputHandler.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Git\\DOTS_Seminar_Openworld\\DOTS_Openworld\\Assets\\Streaming\\SceneManagement\\5. SectionMetadata\\InputSystem\\InputHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Streaming\\SceneManagement\\5. SectionMetadata\\InputSystem\\InputHandler.cs",
+              "ToolTip": "C:\\Users\\user\\Git\\DOTS_Seminar_Openworld\\DOTS_Openworld\\Assets\\Streaming\\SceneManagement\\5. SectionMetadata\\InputSystem\\InputHandler.cs",
+              "RelativeToolTip": "Assets\\Streaming\\SceneManagement\\5. SectionMetadata\\InputSystem\\InputHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T22:23:03.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MergeSharedKeyIndicesJob.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Git\\DOTS_Seminar_Openworld\\DOTS_Openworld\\Assets\\Boids\\Scripts\\MergeSharedKeyIndicesJob.cs",
+              "RelativeDocumentMoniker": "Assets\\Boids\\Scripts\\MergeSharedKeyIndicesJob.cs",
+              "ToolTip": "C:\\Users\\user\\Git\\DOTS_Seminar_Openworld\\DOTS_Openworld\\Assets\\Boids\\Scripts\\MergeSharedKeyIndicesJob.cs",
+              "RelativeToolTip": "Assets\\Boids\\Scripts\\MergeSharedKeyIndicesJob.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAABwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T22:22:24.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NativePriorityHeap.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Git\\DOTS_Seminar_Openworld\\DOTS_Openworld\\Assets\\HelloCube\\15. ClosestTarget\\KDTree\\NativePriorityHeap.cs",
+              "RelativeDocumentMoniker": "Assets\\HelloCube\\15. ClosestTarget\\KDTree\\NativePriorityHeap.cs",
+              "ToolTip": "C:\\Users\\user\\Git\\DOTS_Seminar_Openworld\\DOTS_Openworld\\Assets\\HelloCube\\15. ClosestTarget\\KDTree\\NativePriorityHeap.cs",
+              "RelativeToolTip": "Assets\\HelloCube\\15. ClosestTarget\\KDTree\\NativePriorityHeap.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAYwBMAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T22:22:14.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "KDTree.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Git\\DOTS_Seminar_Openworld\\DOTS_Openworld\\Assets\\HelloCube\\15. ClosestTarget\\KDTree\\KDTree.cs",
+              "RelativeDocumentMoniker": "Assets\\HelloCube\\15. ClosestTarget\\KDTree\\KDTree.cs",
+              "ToolTip": "C:\\Users\\user\\Git\\DOTS_Seminar_Openworld\\DOTS_Openworld\\Assets\\HelloCube\\15. ClosestTarget\\KDTree\\KDTree.cs*",
+              "RelativeToolTip": "Assets\\HelloCube\\15. ClosestTarget\\KDTree\\KDTree.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAArwBQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T22:21:28.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlayerTagAuthoring.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Git\\DOTS_Seminar_Openworld\\DOTS_Openworld\\Assets\\01_Script\\PlayerController\\PlayerTagAuthoring.cs",
+              "RelativeDocumentMoniker": "Assets\\01_Script\\PlayerController\\PlayerTagAuthoring.cs",
+              "ToolTip": "C:\\Users\\user\\Git\\DOTS_Seminar_Openworld\\DOTS_Openworld\\Assets\\01_Script\\PlayerController\\PlayerTagAuthoring.cs",
+              "RelativeToolTip": "Assets\\01_Script\\PlayerController\\PlayerTagAuthoring.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T22:11:25.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CaptureInverseScaleAuthoring.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Git\\DOTS_Seminar_Openworld\\DOTS_Openworld\\Assets\\01_Script\\NormalizeCharacter\\CaptureInverseScaleAuthoring.cs",
+              "RelativeDocumentMoniker": "Assets\\01_Script\\NormalizeCharacter\\CaptureInverseScaleAuthoring.cs",
+              "ToolTip": "C:\\Users\\user\\Git\\DOTS_Seminar_Openworld\\DOTS_Openworld\\Assets\\01_Script\\NormalizeCharacter\\CaptureInverseScaleAuthoring.cs",
+              "RelativeToolTip": "Assets\\01_Script\\NormalizeCharacter\\CaptureInverseScaleAuthoring.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA7wCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T08:41:51.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AutoNormalizeScaleAuthoring.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Git\\DOTS_Seminar_Openworld\\DOTS_Openworld\\Assets\\01_Script\\NormalizeCharacter\\AutoNormalizeScaleAuthoring.cs",
+              "RelativeDocumentMoniker": "Assets\\01_Script\\NormalizeCharacter\\AutoNormalizeScaleAuthoring.cs",
+              "ToolTip": "C:\\Users\\user\\Git\\DOTS_Seminar_Openworld\\DOTS_Openworld\\Assets\\01_Script\\NormalizeCharacter\\AutoNormalizeScaleAuthoring.cs",
+              "RelativeToolTip": "Assets\\01_Script\\NormalizeCharacter\\AutoNormalizeScaleAuthoring.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T07:35:19.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "InputBridge.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Git\\DOTS_Seminar_Openworld\\DOTS_Openworld\\Assets\\01_Script\\InputBridge.cs",
+              "RelativeDocumentMoniker": "Assets\\01_Script\\InputBridge.cs",
+              "ToolTip": "C:\\Users\\user\\Git\\DOTS_Seminar_Openworld\\DOTS_Openworld\\Assets\\01_Script\\InputBridge.cs",
+              "RelativeToolTip": "Assets\\01_Script\\InputBridge.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T05:38:50.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "InputSingletonAuthoring.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Git\\DOTS_Seminar_Openworld\\DOTS_Openworld\\Assets\\01_Script\\InputSingletonAuthoring.cs",
+              "RelativeDocumentMoniker": "Assets\\01_Script\\InputSingletonAuthoring.cs",
+              "ToolTip": "C:\\Users\\user\\Git\\DOTS_Seminar_Openworld\\DOTS_Openworld\\Assets\\01_Script\\InputSingletonAuthoring.cs",
+              "RelativeToolTip": "Assets\\01_Script\\InputSingletonAuthoring.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T05:35:14.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PlayerControllerAuthoring.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Git\\DOTS_Seminar_Openworld\\DOTS_Openworld\\Assets\\01_Script\\PlayerControllerAuthoring.cs",
+              "RelativeDocumentMoniker": "Assets\\01_Script\\PlayerControllerAuthoring.cs",
+              "ToolTip": "C:\\Users\\user\\Git\\DOTS_Seminar_Openworld\\DOTS_Openworld\\Assets\\01_Script\\PlayerControllerAuthoring.cs",
+              "RelativeToolTip": "Assets\\01_Script\\PlayerControllerAuthoring.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T05:22:24.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplyInverseScaleToRenderChildrenBakingSystem.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Git\\DOTS_Seminar_Openworld\\DOTS_Openworld\\Assets\\01_Script\\NormalizeCharacter\\ApplyInverseScaleToRenderChildrenBakingSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\01_Script\\NormalizeCharacter\\ApplyInverseScaleToRenderChildrenBakingSystem.cs",
+              "ToolTip": "C:\\Users\\user\\Git\\DOTS_Seminar_Openworld\\DOTS_Openworld\\Assets\\01_Script\\NormalizeCharacter\\ApplyInverseScaleToRenderChildrenBakingSystem.cs",
+              "RelativeToolTip": "Assets\\01_Script\\NormalizeCharacter\\ApplyInverseScaleToRenderChildrenBakingSystem.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T08:26:38.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "NormalizeUniformScale.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Git\\DOTS_Seminar_Openworld\\DOTS_Openworld\\Assets\\01_Script\\NormalizeCharacter\\NormalizeUniformScale.cs",
+              "RelativeDocumentMoniker": "Assets\\01_Script\\NormalizeCharacter\\NormalizeUniformScale.cs",
+              "ToolTip": "C:\\Users\\user\\Git\\DOTS_Seminar_Openworld\\DOTS_Openworld\\Assets\\01_Script\\NormalizeCharacter\\NormalizeUniformScale.cs",
+              "RelativeToolTip": "Assets\\01_Script\\NormalizeCharacter\\NormalizeUniformScale.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAowCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T07:28:57.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InverseUniformScaleAfterSkinning.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Git\\DOTS_Seminar_Openworld\\DOTS_Openworld\\Assets\\01_Script\\InverseUniformScaleAfterSkinning.cs",
+              "RelativeDocumentMoniker": "Assets\\01_Script\\InverseUniformScaleAfterSkinning.cs",
+              "ToolTip": "C:\\Users\\user\\Git\\DOTS_Seminar_Openworld\\DOTS_Openworld\\Assets\\01_Script\\InverseUniformScaleAfterSkinning.cs",
+              "RelativeToolTip": "Assets\\01_Script\\InverseUniformScaleAfterSkinning.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T08:40:43.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "InputSingletonAuthoring.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Git\\DOTS_Seminar_Openworld\\DOTS_Openworld\\Assets\\01_Script\\PlayerController\\InputSingletonAuthoring.cs",
+              "RelativeDocumentMoniker": "Assets\\01_Script\\PlayerController\\InputSingletonAuthoring.cs",
+              "ToolTip": "C:\\Users\\user\\Git\\DOTS_Seminar_Openworld\\DOTS_Openworld\\Assets\\01_Script\\PlayerController\\InputSingletonAuthoring.cs",
+              "RelativeToolTip": "Assets\\01_Script\\PlayerController\\InputSingletonAuthoring.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T10:09:27.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PlayerControllerAuthoring.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Git\\DOTS_Seminar_Openworld\\DOTS_Openworld\\Assets\\01_Script\\PlayerController\\PlayerControllerAuthoring.cs",
+              "RelativeDocumentMoniker": "Assets\\01_Script\\PlayerController\\PlayerControllerAuthoring.cs",
+              "ToolTip": "C:\\Users\\user\\Git\\DOTS_Seminar_Openworld\\DOTS_Openworld\\Assets\\01_Script\\PlayerController\\PlayerControllerAuthoring.cs",
+              "RelativeToolTip": "Assets\\01_Script\\PlayerController\\PlayerControllerAuthoring.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T08:51:22.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EntityFollower.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Git\\DOTS_Seminar_Openworld\\DOTS_Openworld\\Assets\\01_Script\\PlayerController\\EntityFollower.cs",
+              "RelativeDocumentMoniker": "Assets\\01_Script\\PlayerController\\EntityFollower.cs",
+              "ToolTip": "C:\\Users\\user\\Git\\DOTS_Seminar_Openworld\\DOTS_Openworld\\Assets\\01_Script\\PlayerController\\EntityFollower.cs",
+              "RelativeToolTip": "Assets\\01_Script\\PlayerController\\EntityFollower.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAYwCgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T08:46:42.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PlayerMoveSystem.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Git\\DOTS_Seminar_Openworld\\DOTS_Openworld\\Assets\\01_Script\\PlayerController\\PlayerMoveSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\01_Script\\PlayerController\\PlayerMoveSystem.cs",
+              "ToolTip": "C:\\Users\\user\\Git\\DOTS_Seminar_Openworld\\DOTS_Openworld\\Assets\\01_Script\\PlayerController\\PlayerMoveSystem.cs",
+              "RelativeToolTip": "Assets\\01_Script\\PlayerController\\PlayerMoveSystem.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAQwEEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T08:39:43.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "InputBridge.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Git\\DOTS_Seminar_Openworld\\DOTS_Openworld\\Assets\\01_Script\\PlayerController\\InputBridge.cs",
+              "RelativeDocumentMoniker": "Assets\\01_Script\\PlayerController\\InputBridge.cs",
+              "ToolTip": "C:\\Users\\user\\Git\\DOTS_Seminar_Openworld\\DOTS_Openworld\\Assets\\01_Script\\PlayerController\\InputBridge.cs",
+              "RelativeToolTip": "Assets\\01_Script\\PlayerController\\InputBridge.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T08:36:14.643Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
