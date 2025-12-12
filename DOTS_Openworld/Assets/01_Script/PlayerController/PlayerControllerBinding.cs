@@ -122,7 +122,6 @@ public partial struct PlayerMoveSystem : ISystem
             quaternion newRotation = math.mul(yawRotation, currentRot);
 
             // Y축 회전만 유지 (X, Z축 기울어짐 방지)
-            // 물리 충돌 등으로 캐릭터가 기울어지는 것을 방지
             float3 forward = math.mul(newRotation, new float3(0, 0, 1));
             forward.y = 0;  // 수평 방향만 유지
             if (math.lengthsq(forward) > 0.001f)
@@ -219,13 +218,12 @@ public partial struct TPSCameraSystem : ISystem
             float3 cameraBack = math.mul(playerRot, new float3(0, 0, -1));
 
             // 카메라가 바라볼 타겟 위치 (플레이어 위치 + 오프셋)
-            // 보통 플레이어 머리 높이를 바라봄
             float3 targetPos = playerPos + cameraState.Offset;
 
             // 카메라 실제 위치 (타겟에서 뒤로 Distance만큼)
             float3 desiredCameraPos = targetPos + cameraBack * cameraState.Distance;
 
-            // dt를 사용한 부드러운 카메라 이동 (Lerp)
+            // dt를 사용 -> 카메라 이동 (Lerp)
             float3 currentCameraPos = mainCamera.transform.position;
             float smoothFactor = 1f - math.exp(-cameraState.FollowSpeed * dt);
             float3 newCameraPos = math.lerp(currentCameraPos, desiredCameraPos, smoothFactor);

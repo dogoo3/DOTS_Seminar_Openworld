@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Git\\DOTS_Seminar_Openworld\\DOTS_Openworld\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BAD26A19-7551-AB16-3213-5CCF975DC1C1}|Assembly-CSharp.csproj|C:\\Users\\user\\Git\\DOTS_Seminar_Openworld\\DOTS_Openworld\\assets\\01_script\\playercontroller\\playercontrollerbinding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BAD26A19-7551-AB16-3213-5CCF975DC1C1}|Assembly-CSharp.csproj|c:\\users\\user\\git\\dots_seminar_openworld\\dots_openworld\\assets\\01_script\\playercontroller\\playercontrollerbinding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BAD26A19-7551-AB16-3213-5CCF975DC1C1}|Assembly-CSharp.csproj|solutionrelative:assets\\01_script\\playercontroller\\playercontrollerbinding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -131,7 +131,7 @@
               "RelativeDocumentMoniker": "Assets\\01_Script\\PlayerController\\PlayerControllerBinding.cs",
               "ToolTip": "C:\\Users\\user\\Git\\DOTS_Seminar_Openworld\\DOTS_Openworld\\Assets\\01_Script\\PlayerController\\PlayerControllerBinding.cs",
               "RelativeToolTip": "Assets\\01_Script\\PlayerController\\PlayerControllerBinding.cs",
-              "ViewState": "AgIAAN8AAAAAAAAAAAAUwI0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAMcAAAAAAAAAAAAUwN0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-23T23:34:42.626Z",
               "EditorCaption": ""
