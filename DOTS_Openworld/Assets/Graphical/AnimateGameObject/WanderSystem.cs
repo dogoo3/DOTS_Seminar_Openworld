@@ -1,4 +1,5 @@
-#if !UNITY_DISABLE_MANAGED_COMPONENTS
+// 임시 비활성화 - Animator 타입 등록 문제
+#if false // !UNITY_DISABLE_MANAGED_COMPONENTS
 using Unity.Collections;
 using Unity.Entities;
 using Unity.Mathematics;
